@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606671042 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\common programs\adt_example1\point.c
+
+1606671323 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\common programs\adt_example1\main.c
+	"header.h"
+
+1606671295 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\common programs\adt_example1\header.h
+	<stdio.h>
+	<math.h>
+

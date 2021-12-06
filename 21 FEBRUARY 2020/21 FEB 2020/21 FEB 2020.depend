@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1610819447 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\21 february 2020\21 feb 2020\client.c
+	"queue.h"
+
+1610818160 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\21 february 2020\21 feb 2020\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"data.h"
+
+1610662768 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\21 february 2020\21 feb 2020\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1610651346 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\21 february 2020\21 feb 2020\data.c
+	"data.h"
+
+1610673358 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\21 february 2020\21 feb 2020\queue.c
+	"queue.h"
+
+1609887859 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 11\ex2\lab 11 by me\client.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"tree.h"
+
+1609886351 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 11\ex2\lab 11 by me\tree.h
+	"st.h"
+
+1609887807 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 11\ex2\lab 11 by me\st.h
+	"item.h"
+
+1609886664 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 11\ex2\lab 11 by me\item.h
+	<stdio.h>
+
+1609887316 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 11\ex2\lab 11 by me\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"item.h"
+
+1609887807 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 11\ex2\lab 11 by me\st.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"st.h"
+
+1609886123 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 11\ex2\lab 11 by me\tree.c
+	"tree.h"
+	<stdlib.h>
+
