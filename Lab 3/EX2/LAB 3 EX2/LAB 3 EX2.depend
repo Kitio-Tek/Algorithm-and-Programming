@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603401519 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 3\ex2\lab 3 ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

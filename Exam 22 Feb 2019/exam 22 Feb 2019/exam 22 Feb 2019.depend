@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1610229931 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"data.h"
+
+1610229923 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1610229923 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\client.c
+	"tree.h"
+	"Museum.h"
+	"data.h"
+
+1610224440 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\tree.h
+	"Museum.h"
+
+1610229328 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\museum.h
+	"data.h"
+
+1610216370 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\tree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"tree.h"
+
+1610230090 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\museum.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Museum.h"
+
+1610224291 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1610229328 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\museum.h
+	"data.h"
+
+1610224440 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\exam 22 feb 2019\exam 22 feb 2019\tree.h
+	"Museum.h"
+

@@ -1,0 +1,14 @@
+hhhhh Regression file:
+Line with two hhhhhorizontal sequences hhhhh!
+From hereinafter  vv
+v all rows        vv
+v include         vv
+v two vertical    vv
+v sequences       v
+v and one horizontal ---> hhhhh!
+
+v v v hhhhh v
+v v         v
+v v         v
+v v         v
+v v         v
