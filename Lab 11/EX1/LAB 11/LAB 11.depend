@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1609866522 source:c:\users\kitio\desktop\lab 11\client(1).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"tree.h"
+
+1609883236 c:\users\kitio\desktop\lab 11\tree.h
+	"item.h"
+	"st.h"
+
+1609797899 c:\users\kitio\desktop\lab 11\item1.h
+	<stdio.h>
+	"st1.h"
+
+1609797899 c:\users\kitio\desktop\lab 11\st1.h
+	"item1.h"
+
+1609366764 source:c:\users\kitio\desktop\lab 11\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"item.h"
+
+1609880283 source:c:\users\kitio\desktop\lab 11\st.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"st.h"
+
+1609883236 source:c:\users\kitio\desktop\lab 11\tree.c
+	"tree.h"
+	<stdlib.h>
+
+1609883236 c:\users\kitio\desktop\lab 11\item.h
+	<stdio.h>
+
+1609883236 c:\users\kitio\desktop\lab 11\st.h
+	"item.h"
+
+1609798850 source:c:\users\kitio\desktop\lab 11\item.h
+	<stdio.h>
+
+1609798850 source:c:\users\kitio\desktop\lab 11\st.h
+	"item.h"
+
+1609798340 source:c:\users\kitio\desktop\lab 11\tree.h
+	"item.h"
+	"st.h"
+
