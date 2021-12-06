@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623881338 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa italiano\doube list\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
