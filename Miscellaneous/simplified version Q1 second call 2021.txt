@@ -1,0 +1,43 @@
+void insert(element_t **head,element_t **tail,char *str){ 
+element_t *tmp1,*tmp2,*tmp=NULL;
+
+tmp=new_node(tmp,str);
+ 
+//Empty list
+ if(*head==null)
+{ 
+  (*head)=(tmp);
+  (tmp)->right=*tail;
+  *tail->left=(tmp);
+ return;
+}
+ 
+//insert in testa 
+ if(strcmp(str,(*head)->name)<0)
+{ 
+  (tmp)->right=(*head);
+  (*head)->left=(tmp);
+   (*head)=(tmp);
+return;
+}
+
+//insert in coda 
+ if(strcmp(str,(*tail)->name)>0)
+{ 
+  *tail->right=tmp;
+  (tmp)->left=*tail;
+   (*tail)=(tmp);
+return;
+}
+
+
+ 
+//insert in middle 
+
+for(tmp1=*head,tmp2=*head->right;strcmp(str,tmp2->name)<0 && tmp2!=*tail ; tmp1=tmp2,tmp2=tmp2->right);
+(tmp)->right=tmp2;
+(tmp)->left=tmp1;
+tmp2->left=tmp;
+tmp1->right=tmp;
+
+}
