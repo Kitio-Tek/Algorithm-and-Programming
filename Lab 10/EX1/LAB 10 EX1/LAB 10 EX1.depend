@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1608930830 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 10\ex1\lab 10 ex1\client.c
+	"treePublic.h"
+
+1608927717 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 10\ex1\lab 10 ex1\data.c
+	"data.h"
+
+1608930939 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 10\ex1\lab 10 ex1\tree.c
+	"treePublic.h"
+
+1608927717 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 10\ex1\lab 10 ex1\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1608927717 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 10\ex1\lab 10 ex1\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1608928243 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 10\ex1\lab 10 ex1\treepublic.h
+	"data.h"
+
+1608928243 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 10\ex1\lab 10 ex1\treepublic.h
+	"data.h"
+

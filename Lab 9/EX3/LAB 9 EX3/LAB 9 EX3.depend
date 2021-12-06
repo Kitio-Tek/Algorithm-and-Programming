@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1607591762 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\client.c
+	"treePublic.h"
+
+1607589928 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\treepublic.h
+	"data.h"
+
+1607431773 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1607431755 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\data.c
+	"data.h"
+
+1607431826 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\datastr.c
+	"data.h"
+
+1607588966 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\tree.c
+	"treePrivate.h"
+
+1607431910 c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\treeprivate.h
+	"treePublic.h"
+
+1607431773 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\data.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1607431855 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\datastr.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1607431910 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\treeprivate.h
+	"treePublic.h"
+
+1607588966 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\treepublic.h
+	"data.h"
+
+1607431797 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\dataint.c
+	"data.h"
+
+1607589928 source:c:\users\kitio\desktop\algoritmi e programmazione\apa labs\apa english\lab 9\ex3\lab 9 ex3\treeaddition.c
+	"treePublic.h"
+	"treePrivate.h"
+
